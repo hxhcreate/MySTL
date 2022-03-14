@@ -89,6 +89,9 @@
 		<Unit filename="E:/personal file/c&amp;c++/MySTL/main.cpp">
 			<Option target="MySTL"/>
 		</Unit>
+		<Unit filename="E:/personal file/c&amp;c++/MySTL/type_traits.h">
+			<Option target="MySTL"/>
+		</Unit>
 		<Unit filename="E:/personal file/c&amp;c++/MySTL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
