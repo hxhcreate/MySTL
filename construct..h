@@ -1,0 +1,5 @@
+#ifndef MYSTL_CONSTRUCT_H
+#define MYSTL_CONSTRUCT_H
+
+
+#endif //MYSTL_CONSTRUCT_H
